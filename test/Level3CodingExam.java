@@ -54,6 +54,7 @@ public class Level3CodingExam {
 		hashmap1.put("Mary", "Ecstatic");
 		hashmap1.put("Bob", "Happy");
 		hashmap1.put("Chuck", "Fine");
+
 		hashmap1.put("Felix", "Sick");
 		hashmap1.put("Tam", "Healthy");
 
